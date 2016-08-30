@@ -1,5 +1,5 @@
 numbers = 100
-if numbers % 5 == 0 and numbers & 3 == 0
+if numbers % 5 == 0 and numbers % 3 == 0
 print "FizzBuzz"
 elsif numbers % 5 == 0
 print "Buzz"
