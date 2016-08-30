@@ -7,4 +7,3 @@ elsif numbers % 3 == 0
 print "Fizz"
 else print numbers
 end
-end
